@@ -20,6 +20,7 @@ public class PlayerService {
         players.add(new Player("player4",Role.RM,"Bhagyasri",List.of(40)));
         players.add(new Player("player5",Role.PM,"Roy",List.of(30)));
         System.out.println("SDf");
+        System.out.println("WDefrgthgfds");
     }
     public List<Player> getAllPlayers(){
         return  players;
